@@ -1,65 +1,56 @@
-# Hi There!
-
-**IT Student** · **Web & Game Development** · **Video Editing**  
-Turning ideas into functional, creative projects.
-
-I’m a 21-year-old IT student focused on building practical, user-centered software and digital content. I enjoy taking concepts from zero to one—shipping small, well-scoped projects and learning quickly from each iteration.
+<h1 align="center">Hi, I'm Luis De taza 👋</h1>
+<h3 align="center">IT Student | Web & Game Developer | Video Editor</h3>
+<p align="center">Turning ideas into functional and creative projects.</p>
 
 ---
 
-## What I’m focusing on
-- **Web:** Frontend architecture, responsive UI, and performance basics  
-- **Game Dev:** Rapid prototyping, gameplay loops, and input feel  
-- **Media:** Clear, story-driven edits for product and project showcases
+## 🛠️ Tech & Tools
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-C%23-239120?logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white" />
+
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Web-React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Web-Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game-Unity-000000?logo=unity&logoColor=white" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Premiere%20Pro-9999FF?logo=adobe-premiere-pro&logoColor=white" />
+</p>
 
 ---
 
-## Selected projects
-- **Project Name — one-liner about impact/result**  
-  _Tech:_ React, TypeScript, Node · _Link:_ `https://github.com/<you>/<repo>`
-- **Project Name — one-liner about problem solved**  
-  _Tech:_ HTML/CSS/JS, Firebase · _Link:_ `https://github.com/<you>/<repo>`
-- **Project Name — one-liner about what’s unique**  
-  _Tech:_ Unity/C#, Cinemachine · _Link:_ `https://github.com/<you>/<repo>`
+## 🚀 Featured Projects
+- [**Portfolio Website**](On Progress)  
+  *Personal website showcasing projects and skills.*  
+  *Tech:* React, Tailwind, Framer Motion  
+
+- [**Game Prototype**](https://github.com/simplelui/apkgame)  
+  *2D gameplay loop focused on player experience and mechanics.*  
+  *Tech:* Unity (C#)  
+
+- [**Website Project**](https://github.com/simplelui/wanderly)  
+  *Wanderly*  
+    
 
 ---
 
-## Skills & tools
-**Languages:** JavaScript/TypeScript, C#, Python  
-**Web:** React, Next.js, Node.js/Express, REST APIs  
-**UI:** Tailwind CSS, basic Figma workflow  
-**Game:** Unity (C#), 2D prototyping, basic physics/input  
-**Video:** Premiere Pro / DaVinci Resolve, motion basics  
-**Practices:** Git/GitHub, issue-driven development, small PRs
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="160" />
+</p>
 
 ---
 
-## Highlights
-- Built and shipped small web apps with clean, responsive UIs  
-- Prototyped gameplay loops focusing on feel, clarity, and feedback  
-- Edited short videos to showcase projects and demos succinctly
-
----
-
-## Currently learning
-- Type-safe APIs (tRPC), server components (Next.js)  
-- Game feel polish (cameras, timing, juice)  
-- Editing workflow speed (shortcuts, color basics)
-
----
-
-## Get in touch
-- **Email:** `luisdetaza.dev@gmail.com`  
-- **LinkedIn:** `www.linkedin.com/in/luis-de-taza`  
-- **Portfolio:** `On progress`
-
----
-
-<details>
-<summary><strong>GitHub stats (optional)</strong></summary>
-
--->
-
-</details>
-
----
+## 🌐 Connect with me
+<p align="center">
+  <a href="mailto:luisdetaza04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/luis-de-taza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/simplelui"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+</p>
