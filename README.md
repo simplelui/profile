@@ -41,14 +41,14 @@
   <a href="https://github.com/simplelui/wanderly">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=simplelui&repo=wanderly&theme=radical" />
   </a>
-  <a href="https://github.com/simplelui/apkgame">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simplelui&repo=apkgame&theme=radical" />
+  <a href="https://github.com/simplelui/rhajlu_prototype">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simplelui&repo=rhajlu_prototype&theme=radical" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/simplelui/compasswebsitefullstack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simplelui&repo=compasswebsitefullstack&theme=radical" />
+  <a href="https://github.com/simplelui/wanderly_fullstacked">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simplelui&repo=wanderly_fullstacked&theme=radical" />
   </a>
   <a href="https://github.com/simplelui/portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=simplelui&repo=portfolio&theme=radical" />
