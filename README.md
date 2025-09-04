@@ -56,7 +56,6 @@
 
 ---
 
-##
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplelui&layout=compact&theme=radical" height="160" />
 </p>
