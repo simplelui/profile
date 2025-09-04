@@ -2,8 +2,6 @@
 <h3 align="center">IT Student • Web & Game Developer • Video Editor</h3>
 <p align="center">I turn ideas into functional, creative projects that blend technology and design.</p>
 
----
-
 ## About Me
 - 21-year-old IT student passionate about **web, games, and digital media**  
 - Love taking concepts from **zero to prototype** and making them engaging  
