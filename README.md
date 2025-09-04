@@ -4,7 +4,7 @@
 
 ---
 
-##  About Me
+## About Me
 - 21-year-old IT student exploring **web, games, and digital media**  
 - Passionate about creating **clean, functional, and user-focused projects**  
 - Currently learning **full-stack development** and improving **game feel**  
@@ -12,7 +12,7 @@
 
 ---
 
-##  Skills
+## Skills
 
 **Web Development**  
 <p>
@@ -25,4 +25,48 @@
 
 **Game Development**  
 <p>
-  <img src="https://img.shields.io/badge/Godot-black?logo=godot-
+  <img src="https://img.shields.io/badge/Godot-black?logo=godot-engine&logoColor=478CBF" />
+</p>
+
+**Video Editing**  
+<p>
+  <img src="https://img.shields.io/badge/Premiere%20Pro-black?logo=adobe-premiere-pro&logoColor=9999FF" />
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-black?logo=davinciresolve&logoColor=233A51" />
+  <img src="https://img.shields.io/badge/CapCut-black?logo=capcut&logoColor=white" />
+</p>
+
+---
+
+## Featured Projects
+
+<p align="center">
+  <a href="https://github.com/simplelui/wanderly">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simplelui&repo=wanderly&theme=github_dark" />
+  </a>
+  <a href="https://github.com/simplelui/apkgame">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simplelui&repo=apkgame&theme=github_dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/simplelui/compasswebsitefullstack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simplelui&repo=compasswebsitefullstack&theme=github_dark" />
+  </a>
+</p>
+
+---
+
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simplelui&show_icons=true&theme=github_dark" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplelui&layout=compact&theme=github_dark" height="160" />
+</p>
+
+---
+
+## Connect with Me
+<p align="center">
+  <a href="mailto:luisdetaza04@gmail.com"><img src="https://img.shields.io/badge/Email-black?logo=gmail&logoColor=D14836" /></a>
+  <a href="https://www.linkedin.com/in/luis-de-taza"><img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://github.com/simplelui"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+</p>
