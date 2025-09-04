@@ -1,18 +1,18 @@
-<h1 align="center">Hi, I'm Lui 👋</h1>
+<h1 align="center">Hi, I'm Luis De taza 👋</h1>
 <h3 align="center">IT Student • Web & Game Developer • Video Editor</h3>
 <p align="center">I turn ideas into functional, creative projects that blend technology and design.</p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 21-year-old IT student passionate about **web, games, and digital media**  
-- 💡 Love taking concepts from **zero to prototype** and making them engaging  
-- 🌱 Currently learning **full-stack development** & polishing **game feel**  
-- 🎥 Also skilled in **video editing** for project highlights and storytelling  
+## About Me
+- 21-year-old IT student passionate about **web, games, and digital media**  
+- Love taking concepts from **zero to prototype** and making them engaging  
+- Currently learning **full-stack development** & polishing **game feel**  
+- Also skilled in **video editing** for project highlights and storytelling  
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Web Development**  
 <p>
@@ -37,7 +37,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/simplelui/wanderly">
@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=simplelui&show_icons=true&theme=radical" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplelui&layout=compact&theme=radical" height="160" />
@@ -64,7 +64,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="mailto:luisdetaza04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/luis-de-taza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
