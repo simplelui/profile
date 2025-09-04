@@ -22,8 +22,6 @@ I’m a 21-year-old IT student focused on building practical, user-centered soft
 - **Project Name — one-liner about what’s unique**  
   _Tech:_ Unity/C#, Cinemachine · _Link:_ `https://github.com/<you>/<repo>`
 
-> Tip: Keep each description to 1 line. Mention impact (users, speed, bugs fixed, clarity).
-
 ---
 
 ## Skills & tools
