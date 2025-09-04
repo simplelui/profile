@@ -26,7 +26,7 @@
 ---
 
 ## 🚀 Featured Projects
-- [**Portfolio Website**](On Progress)  
+- [**Portfolio Website**] - On Progress  
   *Personal website showcasing projects and skills.*  
   *Tech:* React, Tailwind, Framer Motion  
 
