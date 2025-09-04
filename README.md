@@ -50,6 +50,9 @@
   <a href="https://github.com/simplelui/compasswebsitefullstack">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=simplelui&repo=compasswebsitefullstack&theme=radical" />
   </a>
+  <a href="https://github.com/simplelui/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simplelui&repo=portfolio&theme=radical" />
+  </a>
 </p>
 
 ---
